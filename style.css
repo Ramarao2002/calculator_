@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+#result{
+    width: 170px;
+    height: 40px;
+    background-color: rgb(46, 76, 102);
+    color: white;
+    margin-bottom: 10px;
+}
+
+#btn_container{
+    width: 680px;
+}
+
+
+#btn{
+    margin: 5px;
+    align-items: center;
+    width: 32px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+#btnr{
+    margin: 5px;
+    align-items: center;
+    width: 32px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+#btnr:hover{
+    border: 1px solid red;
+
+}
+
+#btn:hover{
+    border: 1px solid green;
+
+}
