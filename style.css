@@ -20,15 +20,18 @@ body{
 #btn{
     margin: 5px;
     align-items: center;
-    width: 32px;
+    width: 35px;
+    height: 30px;
     background-color: black;
     color: white;
     cursor: pointer;
+    box-shadow: 1px 1px 1px black;
 }
 #btnr{
     margin: 5px;
     align-items: center;
-    width: 32px;
+    width: 35px;
+    height: 30px;
     background-color: black;
     color: white;
     cursor: pointer;
